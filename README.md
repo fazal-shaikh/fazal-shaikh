@@ -329,7 +329,6 @@ I'm currently seeking opportunities as a:
 
 <div align="center">
 
-## 💜 Quote
 
 ### *"Turning data into insights and ideas into intelligent AI solutions."*
 
