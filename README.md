@@ -127,12 +127,16 @@ I'm currently seeking opportunities as a:
 ---
 
 <details open>
-
 <summary>
 
 # 🧠 Multi-Document RAG Research Assistant
 
 </summary>
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
 
 ### ✨ Features
 
@@ -145,6 +149,10 @@ I'm currently seeking opportunities as a:
 - Whisper Voice Input
 - Streamlit UI
 - FastAPI Backend
+
+</td>
+
+<td width="45%" valign="top">
 
 ### 📋 Project Information
 
@@ -161,17 +169,28 @@ I'm currently seeking opportunities as a:
 | Backend | FastAPI |
 | Frontend | Streamlit |
 
+</td>
+
+</tr>
+</table>
+
 </details>
+
+
 
 ---
 
 <details>
-
 <summary>
 
 # 🚗 Car Damage Detection using CNN
 
 </summary>
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
 
 ### ✨ Features
 
@@ -181,6 +200,10 @@ I'm currently seeking opportunities as a:
 - Image Classification
 - FastAPI
 - Streamlit
+
+</td>
+
+<td width="45%" valign="top">
 
 ### 📋 Project Information
 
@@ -193,8 +216,12 @@ I'm currently seeking opportunities as a:
 | Streamlit | ✅ |
 | Image Processing | ✅ |
 
-</details>
+</td>
 
+</tr>
+</table>
+
+</details>
 ---
 
 
