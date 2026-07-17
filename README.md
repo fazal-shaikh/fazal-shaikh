@@ -74,101 +74,32 @@ I'm currently seeking opportunities as a:
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-## 💻 Programming
+<p align="center">
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,fastapi,flask,docker,git,github,vscode"/>
 
 </p>
 
----
+<p align="center">
 
-## 🤖 AI & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-</p>
-
-![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
----
-
-## 🧠 Generative AI
-
-![](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-
-![](https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge)
-
-![](https://img.shields.io/badge/LLMs-3B82F6?style=for-the-badge)
-
-![](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
-
-![](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge)
-
-![](https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge)
-
-![](https://img.shields.io/badge/Vector_Databases-9333EA?style=for-the-badge)
-
----
-
-## ⚡ AI Tools
-
-![](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge)
-
-![](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-
-![](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge)
-
-![](https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge)
-
-![](https://img.shields.io/badge/ChromaDB-6C63FF?style=for-the-badge)
-
-![](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-
----
-
-## ⚙️ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </p>
-
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
-
-</p>
-
-![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-
----
 
 # 📚 AI & ML Skills
 
@@ -266,7 +197,6 @@ I'm currently seeking opportunities as a:
 
 ---
 
-# 📈 GitHub Analytics
 
 ## 📊 GitHub Analytics
 
@@ -281,12 +211,11 @@ I'm currently seeking opportunities as a:
 
 ---
 
-# 🏆 GitHub Trophies
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fazal-shaikh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fazal-shaikh&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 
