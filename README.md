@@ -268,43 +268,34 @@ I'm currently seeking opportunities as a:
 
 # 📈 GitHub Analytics
 
-<div align="center">
+## 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fazal-shaikh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fazal-shaikh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fazal-shaikh&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=fazal-shaikh&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazal-shaikh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazal-shaikh&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=fazal-shaikh&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fazal-shaikh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
 
-</div>
 
----
+## 📈 Contribution Graph
 
-# 📊 Contribution Graph
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fazal-shaikh&theme=tokyo-night&hide_border=true"/>
+</p>
 
-</div>
-
----
 
 # 🐍 Snake Animation
 
